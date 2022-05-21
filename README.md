@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Frode Eriksen
+- 🌱 I’m currently learning Python
+- 📫 frode@eriksen.casa
